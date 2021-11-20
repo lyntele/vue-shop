@@ -65,6 +65,7 @@ export default {
         //  通过编程式导航跳转到后台主页，路由地址是home
         this.$router.push('/home')
       })
+      // console.log(this.$refs)
     }
   }
 }
