@@ -19,7 +19,6 @@
       background-color="#333744"
       text-color="#fff"
       active-text-color="#409EFF"
-      unique-opened="ture"
       :collapse="iscollapse"
       :collapse-transition="false"
       router
